@@ -1,12 +1,14 @@
 <p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D3AF37,100:b01376&height=200&section=header&!&fontSize=50&fontAlign=50&fontAlignY=50&desc=I%27m%20Biyoni%20Pietersz&descSize=60&descAlign=50"alt="Dinidu Header" /> </p> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D3AF37,100:b01376&height=200&section=header&!&fontSize=50&fontAlign=50&fontAlignY=50&desc=I%27m%20Biyoni%20Pietersz&descSize=60&descAlign=50"alt="Biyoni Header" /> </p> 
+
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=C154C1&center=true&vCenter=true&width=950&lines=Welcome+to+my+AI+playground!;Machine+Learning+%7C+Deep+Learning+Researcher;Python+%7C+TensorFlow+%7C+PyTorch+%7C+ONNX;MLOps+%7C+Model+Deployment+%7C+ML+Engineering;Turning+data+into+intelligent+systems" alt="Typing SVG"/>
 
 💌 Let's collaborate: <br>
 pieterszharsh@gmail.com
-<h3 align="center">Connect with me 🩷🤝🏻</h3>
+<h3 align="center">Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h3> 
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/biyonipietersz/" target="_blank" rel="noopener noreferrer">
@@ -69,12 +71,19 @@ pieterszharsh@gmail.com
 
 --- 
 
-### GitHub Stats
+## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> GitHub Stats
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biyoni12&show_icons=true&locale=en&layout=compact&bg_color=1A1B27&title_color=00B4D8&text_color=FFFFFF&icon_color=00B4D8&hide_border=true" alt="Top Languages" /></p>
-  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=biyoni12&show_icons=true&locale=en&bg_color=1A1B27&title_color=00B4D8&text_color=FFFFFF&icon_color=00B4D8&hide_border=true&include_all_commits=true" alt="GitHub Stats" /></p>
+<p align="center">
+  <img alt="streak" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=biyoni12&theme=algolia&background=0%2C000000%2C460046&border_radius=8&mode=weekly" />
+</p>
+
+<p align="center">
+  <img alt="GitHub stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=biyoni12&count_private=true&show_icons=true&custom_title=My+Github+Statistics&theme=algolia&bg_color=0,000000,460046&layout=compact&border_radius=8" />
+</p>
+
+<p align="center">
+  <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyoni12&count_private=true&theme=algolia&bg_color=0,000000,460046&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c&custom_title=Most+Used+Languages"/>
 </p>
 
 ---
