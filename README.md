@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF90D8,100:b01376&height=200&section=header&!&fontSize=50&fontAlign=50&fontAlignY=50&desc=I%27m%20Biyoni%20Pietersz&descSize=60&descAlign=50"alt="Dinidu Header" /> </p> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D3AF37,100:b01376&height=200&section=header&!&fontSize=50&fontAlign=50&fontAlignY=50&desc=I%27m%20Biyoni%20Pietersz&descSize=60&descAlign=50"alt="Dinidu Header" /> </p> 
 
 <h1 align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=C154C1&center=true&vCenter=true&width=950&lines=Welcome+to+my+AI+playground!;Machine+Learning+%7C+Deep+Learning+Researcher;Python+%7C+TensorFlow+%7C+PyTorch+%7C+ONNX;MLOps+%7C+Model+Deployment+%7C+ML+Engineering;Turning+data+into+intelligent+systems" alt="Typing SVG"/>
