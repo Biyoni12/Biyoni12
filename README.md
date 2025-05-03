@@ -6,6 +6,14 @@
 <h1 align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=C154C1&center=true&vCenter=true&width=950&lines=Welcome+to+my+AI+playground!;Machine+Learning+%7C+Deep+Learning+Researcher;Python+%7C+TensorFlow+%7C+PyTorch+%7C+ONNX;MLOps+%7C+Model+Deployment+%7C+ML+Engineering;Turning+data+into+intelligent+systems" alt="Typing SVG"/>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Biyoni12&color=ff00cc&label=PROFILE+VIEWS" alt="Profile views" /> 
+  &nbsp;
+  <a href="https://github.com/Biyoni12?tab=followers">
+    <img src="https://img.shields.io/badge/FOLLOW%20ME-%23ff00cc?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Follow me on GitHub" />
+  </a>
+</p>
+  
 💌 Let's collaborate: <br>
 pieterszharsh@gmail.com
 <h3 align="center">Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h3> 
@@ -63,7 +71,7 @@ pieterszharsh@gmail.com
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=biyoni12&label=Profile%20views&color=0e75b6&style=flat" alt="biyoni12" /> </p>
+
 
 ## <img align="left" width=35px height=35px src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> My Contribution Graph
 <br>
