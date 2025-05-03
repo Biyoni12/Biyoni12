@@ -1,7 +1,7 @@
 <p align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D3AF37,100:b01376&height=200&section=header&!&fontSize=50&fontAlign=50&fontAlignY=50&desc=I%27m%20Biyoni%20Pietersz&descSize=60&descAlign=50"alt="Biyoni Header" /> </p> 
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif?raw=true" width = 250px></p>
 
 <h1 align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=C154C1&center=true&vCenter=true&width=950&lines=Welcome+to+my+AI+playground!;Machine+Learning+%7C+Deep+Learning+Researcher;Python+%7C+TensorFlow+%7C+PyTorch+%7C+ONNX;MLOps+%7C+Model+Deployment+%7C+ML+Engineering;Turning+data+into+intelligent+systems" alt="Typing SVG"/>
@@ -65,7 +65,7 @@ pieterszharsh@gmail.com
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=biyoni12&label=Profile%20views&color=0e75b6&style=flat" alt="biyoni12" /> </p>
 
-### My Contribution Graph
+## <img align="left" width=35px height=35px src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> My Contribution Graph
 <br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biyoni12&color=ff66b2&bg_color=333344&line=ff99cc&point=ffccff&area_color=cc6699&hide_border=true&area=true&custom_title=My+Contribution+Graph&radius=8" alt="Contribution Graph" width="100%"/>
