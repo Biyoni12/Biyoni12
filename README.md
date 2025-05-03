@@ -31,7 +31,7 @@ pieterszharsh@gmail.com
     <a href="https://www.hackerrank.com/profile/pieterszharsh" target="_blank" rel="noopener noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="48" height="48" />
     </a>
-    <a href="https://leetcode.com/u/" target="_blank" rel="noopener noreferrer">
+    <a href="https://leetcode.com/u/BiyoniPietersz/" target="_blank" rel="noopener noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="48" height="48" />
     </a>
     <a href="https://www.geeksforgeeks.org/user/pietersk64q/" rel="noopener noreferrer">
