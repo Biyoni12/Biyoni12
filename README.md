@@ -51,7 +51,7 @@ pieterszharsh@gmail.com
 </div>
 
 ---
-### Languages and Tools
+## <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="47"> Languages and Tools
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
@@ -77,7 +77,7 @@ pieterszharsh@gmail.com
 
 ---
 
-## <img align="left" width=35px height=35px src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> My Contribution Graph
+## <img align="left" width=35px height=35px src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width = 40px> My Contribution Graph
 <br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biyoni12&color=ff66b2&bg_color=333344&line=ff99cc&point=ffccff&area_color=cc6699&hide_border=true&area=true&custom_title=My+Contribution+Graph&radius=8" alt="Contribution Graph" width="100%"/>
@@ -102,7 +102,7 @@ pieterszharsh@gmail.com
 
 ---
 
-### My Github Trophies
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25px"> My Github Trophies
 <br>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Biyoni12&theme=onedark&title_color=FF00FF&text_color=FFAAFF&bg_color=110011&row=2&column=4&no-frame=true&margin-w=15&margin-h=15&gradient=0:FF00FF,100:FF0099&random=12345" alt="Pink Trophies" />
