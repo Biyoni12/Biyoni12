@@ -130,15 +130,15 @@ pieterszharsh@gmail.com
 <br>
 
 <p align="center">
-  <img alt="streak" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=biyoni12&theme=algolia&background=0%2C000000%2C460046&border_radius=8&mode=weekly" />
+  <img alt="streak" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=biyoni12&theme=algolia&background=0%2C000000%2C460046&border_radius=8&mode=weekly&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img alt="GitHub stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=biyoni12&count_private=true&show_icons=true&custom_title=My+Github+Statistics&theme=algolia&bg_color=0,000000,460046&layout=compact&border_radius=8" />
+  <img alt="GitHub stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=biyoni12&count_private=true&show_icons=true&custom_title=My+Github+Statistics&theme=algolia&bg_color=0,000000,460046&layout=compact&border_radius=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyoni12&count_private=true&theme=algolia&bg_color=0,000000,460046&layout=compact&border_radius=8&langs_count=20&custom_title=Most+Used+Languages"/>
+  <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyoni12&count_private=true&theme=algolia&bg_color=0,000000,460046&layout=compact&border_radius=8&langs_count=20&custom_title=Most+Used+Languages&cache_seconds=1800"/>
 </p>
 
 ---
