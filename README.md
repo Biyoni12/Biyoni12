@@ -138,7 +138,7 @@ pieterszharsh@gmail.com
 </p>
 
 <p align="center">
-  <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyoni12&count_private=true&theme=algolia&bg_color=0,000000,460046&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c&custom_title=Most+Used+Languages"/>
+  <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyoni12&count_private=true&theme=algolia&bg_color=0,000000,460046&layout=compact&border_radius=8&langs_count=20&custom_title=Most+Used+Languages"/>
 </p>
 
 ---
