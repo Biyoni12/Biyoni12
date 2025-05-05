@@ -146,7 +146,7 @@ pieterszharsh@gmail.com
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25px"> My Github Trophies
 <br>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Biyoni12&theme=onedark&title_color=FF00FF&text_color=FFAAFF&bg_color=110011&row=2&column=4&no-frame=true&margin-w=15&margin-h=15&gradient=0:FF00FF,100:FF0099&random=12345" alt="Pink Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Biyoni12&theme=onedark&title_color=FF00FF&text_color=FFAAFF&bg_color=110011&row=2&column=4&no-frame=true&margin-w=15&margin-h=15&gradient=0:FF00FF,100:FF0099&random=12345" alt="Trophies" />
 </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
